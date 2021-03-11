@@ -60,7 +60,7 @@ export interface MinhaReceitaData {
 
 declare module "minha-receita-api"{
   export default class MinhaReceita{
-    constructor(cnpj: PicPayConfig);
+    constructor(cnpj: CnpjNumber);
 
     get(): Promise<MinhaReceitaData>
   }
