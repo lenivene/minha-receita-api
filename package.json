@@ -1,6 +1,6 @@
 {
   "name": "minha-receita-api",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Consulta de informações do CNPJ na API minhareceita.org",
   "main": "index.js",
   "repository": "https://github.com/lenivene/minha-receita-api",
